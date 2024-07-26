@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ulises Farías</h1>
-<h3 align="center">Un apasionado desarrollador web</h3>
+<h3 align="center">Un apasionado desarrollador web de Argentina</h3>
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
